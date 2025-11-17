@@ -1,0 +1,41 @@
+# AIDD 30-Day Challenge  							
+# Task 1
+# Instructor: Sir Hamzah Syed
+# Date:15-nov-2025
+# Made by :  NAILA Adnan
+
+
+Q#1 What does AI-Driven Development mean to you?
+ANS) AI-driven development is the transformative integration of artificial intelligence—such as machine learning and natural language processing—into the software development lifecycle, 
+enabling automation, intelligent code generation, and adaptive decision-making while enhancing collaboration between humans and AI for faster, higher-quality software creation. 
+
+Q#2 How do you see the future of Human–AI Collaboration in software development?
+ANS) The future of human–AI collaboration in software development is set to be a powerful partnership where AI handles repetitive, data-heavy tasks like code generation, testing, and analytics,,
+freeing human developers to focus on creative problem-solving, strategic decision-making, and innovation. As AI systems become more context-aware and adaptive, workflows will shift from mere
+automation to true augmentation—AI will remember coding preferences, suggest improvements, and analyze complex data, while humans provide oversight, ethical judgment, and creative direction.
+This synergy speeds up delivery, improves code quality, enables rapid prototyping, and allows development teams to scale their impact, with a focus on ethical AI practices and explainable systems
+for greater trust and adoption
+
+## MCQS
+#1 What is the main purpose of the AI-Native Era?
+b) Empower developers through AI tools
+#2  What defines an AI-driven developer?
+b) Creates context-aware prompts
+#3  What does “AIDD” stand for?
+b) AI-Driven Development
+#4  What is the focus of Evaluation-Driven Development (EVDD)?
+b) Evaluating and improving AI outputs
+#5 What should developers focus on in the AI era?
+b) Building reasoning + evaluation skills
+
+##SHORT BRIEF IN_ROMAN 
+AI-driven development ka matlab yeh hai ke software banane ke poore process mein artificial intelligence ko istemaal kiya jaye. Is mein machine learning yani machine ka khud seekhna, aur
+natural language processing yani zaban ko samajhna shamil hota hai. In cheezon ko use karke kaam ko automation banaya jata hai, code khud generate ho jata hai, aur system halaat ke mutabiq 
+faislay kar leta hai. Is se insaan aur AI mil kar zyada behtar kaam karte hain, jisse software tez bhi banta hai aur uski quality bhi behtar hoti hai.Software development ka mustaqbil insaan 
+aur AI ka mazboot saath hoga. AI repeat hone wale aur data-walay kaam jaise code banana, testing aur analysis sambhalega, jabke insaan creative soch, behtar faislay aur nayi ideas par focus 
+karega. AI dheere dheere zyada samajhdaar hoga—preferences yaad rakhega, behtar suggestions dega aur mushkil data ko analyze karega. Is tarah dono mil kar kaam ko tez, behtar quality aur zyada 
+efficient bana denge, jabke insaan ethical aur sahi direction ka khayal rakhega.
+
+
+
+
