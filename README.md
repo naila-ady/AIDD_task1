@@ -9,6 +9,7 @@
 
 ## Q1: What does AI-Driven Development mean to you?
 AI-driven development is the transformative integration of artificial intelligence—such as machine learning and natural language processing—into the software development lifecycle, enabling automation, intelligent code generation, and adaptive decision-making while enhancing collaboration between humans and AI for faster, higher-quality software creation.
+AIDD is built on nine foundational pillars that world-class teams naturally follow. These pillars work together to create an efficient, AI-augmented development workflow. Missing any one of them weakens the whole system.
 
 ---
 
